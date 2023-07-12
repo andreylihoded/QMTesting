@@ -1,0 +1,24 @@
+{
+    "generalInformation": {
+        "purchaseOrderType": "Standard Z-PO (ZNB)",
+        "supplier": "50000040",
+        "currency": "EUR",
+        "purchasingGroup": "001",
+        "purchasingOrganization": "1010",
+        "companyCode": "1010"
+    },
+    "items": [
+        {
+            "item": "00010",
+            "itemCategory": "Standard",
+            "Material": "WM-D03",
+            "orderQuantity": "10"
+        },
+        {
+            "item": "00020",
+            "itemCategory": "Standard",
+            "Material": "WM-D03",
+            "orderQuantity": "30"
+        }
+    ]
+}
